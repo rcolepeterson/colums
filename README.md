@@ -1,2 +1,0 @@
-# colums
-Created with CodeSandbox
